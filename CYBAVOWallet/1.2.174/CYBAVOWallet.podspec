@@ -10,7 +10,6 @@ Use CYBAVO Wallet App SDK to easily develop secure wallets for your users withou
   s.license      = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
   s.author             = { "CYBAVO" => "dev@cybavo.com" }
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "ssh://git@bitbucket.org/cybavo/hw-sdk_ios_release.git", :tag => "swift512_1.2.174" }
   s.source_files  = "**/*.{h}"
   s.exclude_files = "Classes/Exclude"
   s.swift_version = '4.2.1'
